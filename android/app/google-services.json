@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431324925667",
+    "firebase_url": "https://cheer-up-ddcb2-default-rtdb.firebaseio.com",
+    "project_id": "cheer-up-ddcb2",
+    "storage_bucket": "cheer-up-ddcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431324925667:android:3e58972b726cf20f96ffd6",
+        "android_client_info": {
+          "package_name": "com.example.navegacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431324925667-irp6s1rv0nt0flqr0rtgf97skp72l9nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKlgm3SmlES0sm8zmiejw2ZXTI5J4BPKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431324925667-irp6s1rv0nt0flqr0rtgf97skp72l9nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
